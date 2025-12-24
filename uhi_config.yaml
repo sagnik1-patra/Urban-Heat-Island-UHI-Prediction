@@ -1,0 +1,9 @@
+features:
+- month
+- day
+- year
+models:
+- RandomForest
+- DeepLearning
+project: Urban Heat Island Prediction
+target: avgtemperature

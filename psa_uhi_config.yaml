@@ -1,0 +1,6 @@
+epochs: 20
+features:
+- month
+- day
+- year
+model: Hybrid PSO + CSA
